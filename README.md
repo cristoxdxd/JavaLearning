@@ -15,6 +15,7 @@ Java is a high-level, class-based, object-oriented programming language that is 
 All of this reasons and much more
 
 ## My little proyects
+- <a href="./StringsPractice/Project 4/src/project/pkg4" target="_blank">Strings Practice</a>
 
 
 ## Documentation
